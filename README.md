@@ -83,31 +83,36 @@ Screenshots are stored in the `screenshots/` directory.
 ## ▶️ How to Run the Project
 
 # 1️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # 2️⃣ Run the Flask app
+```bash
 python main.py
+```
 
 # 3️⃣ (Optional) In another terminal, run the background reel processing
+```bash
 python generate_process.py
+```
 
-
-📌 Requirements
+## 📌 Requirements
 
 - Python 3.9 or higher
 - FFmpeg installed and added to system PATH
 - ElevenLabs API key (add it in `config.py`)
 
 
-🔐 Notes
+## 🔐 Notes
 
 Do NOT upload user_uploads/, generated reels, or API keys to GitHub
 
 Use .gitignore to exclude runtime and sensitive files
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Akanksha Agre
+**Akanksha Agre**
 
 
 ---
