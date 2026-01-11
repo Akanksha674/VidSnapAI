@@ -82,17 +82,17 @@ Screenshots are stored in the `screenshots/` directory.
 
 ## ▶️ How to Run the Project
 
-# 1️⃣ Install dependencies
+### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-# 2️⃣ Run the Flask app
+### 2️⃣ Run the Flask app
 ```bash
 python main.py
 ```
 
-# 3️⃣ (Optional) In another terminal, run the background reel processing
+### 3️⃣ (Optional) In another terminal, run the background reel processing
 ```bash
 python generate_process.py
 ```
