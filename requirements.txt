@@ -1,0 +1,19 @@
+# Web framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# File handling & uploads
+python-multipart==0.0.6        # Optional, if you handle forms with multiple files
+
+# Video/Image processing
+opencv-python==4.8.1.78        # Reading, editing, and saving images/videos
+moviepy==1.0.3                 # Video editing, combining clips
+
+# AI/ML support (optional if you integrate AI models later)
+numpy==1.26.0
+torch==2.1.0                    # For PyTorch-based AI models
+torchaudio==2.1.0               # If using audio in AI reels
+transformers==4.38.0            # If using HuggingFace models
+
+# Utilities
+uuid==1.30                      # Built-in, optional to include
