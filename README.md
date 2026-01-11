@@ -29,6 +29,7 @@ The app allows users to upload multiple images, enter text, and generate a verti
 
 ## 📁 Project Structure
 
+```
 VidSnapAI/
 ├── main.py
 ├── generate_process.py
@@ -46,7 +47,7 @@ VidSnapAI/
 │   └── songs/
 ├── screenshots/
 └── user_uploads/
-
+```
 
 
 ---
