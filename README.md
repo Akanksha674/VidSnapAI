@@ -104,11 +104,6 @@ python generate_process.py
 - ElevenLabs API key (add it in `config.py`)
 
 
-## 🔐 Notes
-
-Do NOT upload user_uploads/, generated reels, or API keys to GitHub
-
-Use .gitignore to exclude runtime and sensitive files
 
 ## 👩‍💻 Author
 
